@@ -1,0 +1,5 @@
+function lala():boolean is end
+var la:integer
+lala()
+
+la:=4

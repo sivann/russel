@@ -1,0 +1,6 @@
+var ka:boolean
+var ll:boolean
+var lr:integer
+
+if (ka=ll) -> lr:=1 
+end

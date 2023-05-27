@@ -1,0 +1,17 @@
+
+Started
+
+CODE OK!
+
+     1:  unit, hanoi, -, -
+     2:  :=, "TRala", -, s2
+     3:  endu, hanoi, -, -
+     4:  unit, _main, -, -
+     5:  par, r, R, -
+     6:  par, ss1, V, -
+     7:  par, ss2, R, -
+     8:  call, -, -, hanoi
+     9:  par, ss2, V, -
+    10:  call, -, -, prints
+    11:  endu, _main, -, -
+

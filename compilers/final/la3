@@ -1,0 +1,3 @@
+function lala(la:boolean):boolean is end
+var ka:boolean
+ka:=lala(ka)

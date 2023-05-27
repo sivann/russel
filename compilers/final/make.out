@@ -1,0 +1,10 @@
+Compiling inter.c..            gcc -c -o inter.o inter.c
+Running bison...               bison -d -v russel.y
+Compiling bison output...      gcc -c -o russel.tab.o russel.tab.c
+Running flex...                flex russellex.l
+Compiling flex output...       gcc -c -o lex.yy.o lex.yy.c
+Compiling symbol table decl.   g++ -c -o symbolc.o symbolc.cpp
+Compiling symbol table...      g++ -c -o symbol.o symbol.cpp
+Linking objects...             inter.o russel.tab.o lex.yy.o symbolc.o symbol.o -lfl
+
+Complete!

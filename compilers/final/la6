@@ -1,0 +1,4 @@
+function lala(kk:boolean):boolean is kk:=false end
+var la:boolean
+lala(la)
+

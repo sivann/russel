@@ -1,0 +1,6 @@
+function lala() :boolean is 
+printi(4)
+end
+var ll:integer
+
+printi(3)

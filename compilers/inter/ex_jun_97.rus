@@ -1,0 +1,11 @@
+var y, a, b, x : integer
+
+function f (a : ref integer, y : integer ) is
+	if
+		x > y -> a := x
+
+	end
+end
+
+f(b, a)
+

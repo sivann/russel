@@ -1,0 +1,7 @@
+function lala(la:integer) :integer is end
+var ka:integer
+var ll:integer
+
+if lala(ka)=1 -> ll:=1 
+| true -> ll:=0
+end

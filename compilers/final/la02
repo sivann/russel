@@ -1,0 +1,8 @@
+function lala() :boolean is end
+function ala(x:boolean) :boolean is end
+
+function lala2(x:boolean) :boolean is end
+
+var ll,lll:boolean
+
+ll:=ala(lala2(lll))

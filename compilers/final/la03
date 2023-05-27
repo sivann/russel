@@ -1,0 +1,8 @@
+function lala() :integer is end
+function ala(x:integer) :integer is end
+
+function lala2(x:integer) :integer is end
+
+var ll,lll:integer
+
+ll:=lala2(ala(lll))
